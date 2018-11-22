@@ -1,0 +1,7 @@
+#ifndef	inc_a.h
+#define inc_a.h
+
+int evennum(int num);  
+
+#endif
+
