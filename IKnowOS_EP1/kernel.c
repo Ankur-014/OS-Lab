@@ -18,9 +18,9 @@ int kmain()
                 {
                         clearscreen();
                 }
-		else if(strEql(ch,"nahin"))
+		else if(strEql(ch,"ankur"))
                 {
-                        print("\nnahi is here!\n");
+                        print("\n1314 is here!\n");
                 }
 
                 else
